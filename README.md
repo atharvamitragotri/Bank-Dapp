@@ -1,3 +1,4 @@
+#Bank Dapp
 Simple bank Dapp to store your ETH and ERC20 tokens using hardhat and ReactJS.
 1. The bank contract allows only the owner to set the allowed tokens.
 2. The contract allows user to deposit and withdraw the allowed tokens.
